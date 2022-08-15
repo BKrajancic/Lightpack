@@ -74,10 +74,17 @@ Prismatik supports multiple Lightpack devices and merges them into one. For othe
 See #280 for details.
 
 
-##### Making Plugins:
+##### Plugins:
+
+###### Making Plugins:
 * [template](Software/res/plugin-template.ini)
 * [code samples](Software/apiexamples)
 
+###### Curated Plugins:
+
+| Project  | Description   |
+| ------------- | ------------- |
+| [Prismatik Device Sync](https://github.com/BKrajancic/Prismatik-Device-Sync]Content Cell) | Synchronize Prismatik with a variety of devices. |
 
 ##### Useful URLs:
 * [Project mothership](https://github.com/psieg/Lightpack/)
